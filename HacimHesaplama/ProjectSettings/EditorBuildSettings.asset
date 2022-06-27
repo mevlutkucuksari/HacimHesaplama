@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BaslangicEkrani 1.unity
+    guid: 966fb082fbd051043ac85a66e89ac6d0
+  - enabled: 1
+    path: Assets/Scenes/2dveya3dsecimyeri.unity
+    guid: f546638993a7fdb43bd2bdc7e8659f46
+  - enabled: 1
+    path: Assets/Scenes/HacimEkran.unity
+    guid: d3d57af1dd0f0624bbcf8cae667e4190
+  - enabled: 1
+    path: Assets/Scenes/HacimEkran 2.unity
+    guid: a45ad6aaac729c84ab6521aad7df7d72
+  - enabled: 1
+    path: Assets/Scenes/HacimEkran 3.unity
+    guid: 926576ba329208c47afea65a0d2f927d
+  - enabled: 1
+    path: Assets/Scenes/HacimEkran 4.unity
+    guid: 051fa3381e3c5834dbd8398226b75ea2
+  - enabled: 1
+    path: Assets/Scenes/hacimkisimlarikare 1.unity
+    guid: 8d3ffa181badf334599642f53d36b482
+  - enabled: 1
+    path: Assets/Scenes/hacimkisimlaridikdortgen 1.unity
+    guid: e0291e02af4f5a04f9ee7c37434c1317
+  - enabled: 1
+    path: Assets/Scenes/hacimkisimlaricember.unity
+    guid: 80ac308f19d4a2a4ca8c37228acb3334
+  - enabled: 1
+    path: Assets/Scenes/sonekrann.unity
+    guid: e5c9dc181bf9360409375604a1b82a87
+  m_configObjects: {}
